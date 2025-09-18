@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-CCjoExFo.js";const s={};function o(c,r){return a(),t("div")}const l=e(s,[["render",o]]),_=JSON.parse('{"path":"/blogs/essay/2026/0101.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blogs/essay/2026/0101.md"}');export{l as comp,_ as data};
