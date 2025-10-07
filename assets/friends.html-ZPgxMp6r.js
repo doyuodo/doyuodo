@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app-B_ud23vf.js";const a={};function n(c,o){return r(),t("div")}const l=e(a,[["render",n]]),i=JSON.parse('{"path":"/friends.html","title":"","lang":"en-US","frontmatter":{"layout":"FriendsCircleLayout"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,i as data};
