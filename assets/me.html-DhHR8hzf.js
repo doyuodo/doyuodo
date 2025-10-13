@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app--Vh3dkqs.js";const o={};function c(n,r){return a(),t("div")}const s=e(o,[["render",c]]),m=JSON.parse('{"path":"/me.html","title":"","lang":"en-US","frontmatter":{"layout":"MeLayout"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,m as data};

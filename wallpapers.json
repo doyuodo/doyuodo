@@ -1,0 +1,47 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "imgUrl": "https://origin.picgo.net/2025/10/02/background286c66aee31d1b420.jpg",
+      "downloadUrl": "https://origin.picgo.net/2025/10/02/background286c66aee31d1b420.jpg",
+      "downloadName": "海.jpg"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://pic.netbian.com/uploads/allimg/250912/220157-1757685717d480.jpg",
+      "downloadUrl": "https://pic.netbian.com/uploads/allimg/250912/220157-1757685717d480.jpg",
+      "downloadName": "海.jpg"
+    },
+        {
+      "id": 3,
+      "imgUrl": "https://pic.netbian.com/uploads/allimg/250830/124737-17565292573bcb.jpg",
+      "downloadUrl": "https://pic.netbian.com/uploads/allimg/250830/124737-17565292573bcb.jpg",
+      "downloadName": "海.jpg"
+    },
+            {
+      "id": 4,
+      "imgUrl": "https://pic.netbian.com/uploads/allimg/220823/000930-1661184570f815.jpg",
+      "downloadUrl": "https://pic.netbian.com/uploads/allimg/220823/000930-1661184570f815.jpg",
+      "downloadName": "海.jpg"
+    },
+            {
+      "id": 5,
+      "imgUrl": "https://pic.netbian.com/uploads/allimg/240829/185408-1724928848a9f7.jpg",
+      "downloadUrl": "https://pic.netbian.com/uploads/allimg/240829/185408-1724928848a9f7.jpg",
+      "downloadName": "海.jpg"
+    },
+            {
+      "id": 6,
+      "imgUrl": "https://pic.netbian.com/uploads/allimg/241121/191753-17321878736a8e.jpg",
+      "downloadUrl": "https://pic.netbian.com/uploads/allimg/241121/191753-17321878736a8e.jpg",
+      "downloadName": "海.jpg"
+    },
+            {
+      "id": 7,
+      "imgUrl": "https://pic.netbian.com/uploads/allimg/241210/150300-1733814180ab76.jpg",
+      "downloadUrl": "https://pic.netbian.com/uploads/allimg/241210/150300-1733814180ab76.jpg",
+      "downloadName": "海.jpg"
+    }
+
+  ]
+}

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./app--Vh3dkqs.js";const a={};function n(c,r){return o(),e("div")}const s=t(a,[["render",n]]),_=JSON.parse('{"path":"/note.html","title":"","lang":"en-US","frontmatter":{"layout":"QuickNote"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,_ as data};
