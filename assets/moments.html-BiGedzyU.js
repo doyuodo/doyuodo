@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n}from"./app-DD_4_JlO.js";const o={};function a(c,r){return n(),e("div")}const m=t(o,[["render",a]]),l=JSON.parse('{"path":"/moments.html","title":"","lang":"en-US","frontmatter":{"layout":"Moments"},"headers":[],"git":{},"filePathRelative":null}');export{m as comp,l as data};
